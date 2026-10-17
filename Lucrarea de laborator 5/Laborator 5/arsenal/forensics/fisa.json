@@ -1,0 +1,19 @@
+{
+  "intrare": "TkRZMFl6UXhORGMzWWpjek56UTNNall4TnpRM05UY3lOamsxWmpZME5qVTFaalkxTm1VMk16Wm1OalEyT1RabE5qYzNaQT09",
+  "strat_final": "hex",
+  "pasi": [
+    {
+      "strat": "base64",
+      "rezultat": "NDY0YzQxNDc3YjczNzQ3MjYxNzQ3NTcyNjk1ZjY0NjU1ZjY1NmU2MzZmNjQ2OTZlNjc3ZA=="
+    },
+    {
+      "strat": "base64",
+      "rezultat": "464c41477b73747261747572695f64655f656e636f64696e677d"
+    },
+    {
+      "strat": "hex",
+      "rezultat": "FLAG{straturi_de_encoding}"
+    }
+  ],
+  "rezultat": "FLAG{straturi_de_encoding}"
+}
